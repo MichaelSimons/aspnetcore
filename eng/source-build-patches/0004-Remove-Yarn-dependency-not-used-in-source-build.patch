@@ -33,8 +33,8 @@ index 501ba161bf..ee9dcaf4fa 100644
    },
    "msbuild-sdks": {
 -    "Yarn.MSBuild": "1.22.10",
-    "Microsoft.DotNet.Arcade.Sdk": "6.0.0-beta.21167.3",
-    "Microsoft.DotNet.Helix.Sdk": "6.0.0-beta.21167.3"
+    "Microsoft.DotNet.Arcade.Sdk": "6.0.0-beta.21216.2",
+    "Microsoft.DotNet.Helix.Sdk": "6.0.0-beta.21216.2"
    }
 diff --git a/src/Components/WebAssembly/Authentication.Msal/src/Microsoft.Authentication.WebAssembly.Msal.csproj b/src/Components/WebAssembly/Authentication.Msal/src/Microsoft.Authentication.WebAssembly.Msal.csproj
 index 939ba16f88..ea2c849ea3 100644

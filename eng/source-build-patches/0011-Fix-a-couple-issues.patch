@@ -29,7 +29,7 @@ index d023481b95..a28aa122b1 100644
 --- a/src/Components/Components.slnf
 +++ b/src/Components/Components.slnf
 @@ -37,7 +37,6 @@
-       "src\\Components\\WebAssembly\\testassets\\WasmLinkerTest.csproj",
+       "src\\Components\\WebAssembly\\testassets\\WasmLinkerTest\\WasmLinkerTest.csproj",
        "src\\Components\\Web\\src\\Microsoft.AspNetCore.Components.Web.csproj",
        "src\\Components\\Web\\test\\Microsoft.AspNetCore.Components.Web.Tests.csproj",
 -      "src\\Components\\benchmarkapps\\Wasm.Performance\\Driver\\Wasm.Performance.Driver.csproj",
